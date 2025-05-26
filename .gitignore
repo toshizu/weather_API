@@ -1,8 +1,8 @@
-# 出力ファイル類（毎日更新されるCSV/PNG）
+# 出力ファイル類
 output/*.csv
 output/*.png
 
-# APIキーなど機密情報
+# APIキー
 .env
 
 # Pythonキャッシュ・チェックポイント
@@ -10,5 +10,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Jupyterの設定ファイル（必要に応じて）
+# Jupyterの設定ファイル
 *.nbconvert.ipynb
+
+# サンプルは含める
+!sample/*.csv
+!sample/*.png
