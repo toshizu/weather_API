@@ -13,8 +13,8 @@
 - 出力対象（CSV／画像）は `output/` フォルダに整理
 - 出力の例として、`sample/`フォルダを作成しています。
 
-📊 [サンプルCSVはこちら](sample/weather_20250523.csv)  
-🖼 [出力グラフはこちら](sample/weather_20250523.png)
+グラフの出力例↓
+ ![出力グラフはこちら](sample/weather_20250523.png)
 
 
 ---
